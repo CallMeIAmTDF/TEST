@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context factory="org.apache.tomcat.dbcp.dbcp2.BasicDataSourceFactory" path="/mavenproject7"/>
